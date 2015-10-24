@@ -6,17 +6,12 @@ Alice had a positive integer N. Then she chose some positive integer M that was 
 You are given the int N. Find and return the smallest M Alice could have chosen. (Such an M will always exist.)
 Definition
     
-Class:
-MissingLCM
-Method:
-getMin
-Parameters:
-int
-Returns:
-int
-Method signature:
-int getMin(int N)
-(be sure your method is public)
+Class: MissingLCM
+Method: getMin
+Parameters: int
+Returns: int
+Method signature: int getMin(int N) (be sure your method is public)
+
 Limits
     
 Time limit (s):
@@ -72,3 +67,7 @@ Oh... that doesn't fit the pattern.
 Returns: 1999966
 
 This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.
+
+
+/* Solution */
+
