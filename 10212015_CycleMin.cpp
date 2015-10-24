@@ -91,7 +91,6 @@ Returns: "aaaisgb"
 This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved. 
 
 
-
 /* Solution */
 #include <iostream>
 #include <string>
@@ -118,6 +117,7 @@ public:
 		return best;
 	}
 };
+
 
 
 
